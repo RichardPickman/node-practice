@@ -1,0 +1,23 @@
+{
+  "name": "node-practice",
+  "description": "NODE PRACTICE",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardpickman/node-practice.git"
+  },
+  "keywords": [ "node", "javascript"],
+  "author": "RichardPickman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardpickman/node-practice/issues"
+  },
+  "homepage": "https://github.com/richardpickman/node-practice#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.1",
+    "dotenv": "latest",
+    "typescript": "^4.7.4"
+  }
+}
