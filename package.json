@@ -3,7 +3,6 @@
   "description": "NODE PRACTICE",
   "version": "0.0.1",
   "main": "index.js",
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/richardpickman/node-practice.git"
